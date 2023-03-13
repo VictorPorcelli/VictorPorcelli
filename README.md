@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorPorcelli
-- 👀 I’m interested in using coding for Data Analysis and Visualization, generally in the NYC Policy space.
-- 🌱 My experience is with R, Stata, Python and some HTML, although I'm always learning more.
+- 👀 I’m interested in creating unique visulizations and performing analyses using data in the public policy sphere.
+- 🌱 Most of my code is in #Rstats, which I use professionally in my role as a Technical Research Analyst at MDRC, a social policy research nonprofit.
 - 📫 Check out my website @ victorporcelli.com.
 
 <!---
